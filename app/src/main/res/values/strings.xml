@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobileDSPExe1</string>
+    <string name="action_settings">Settings</string>
+    <string name="freq_prompt">Choose a Frequency</string>
+
+    <string-array name="freq_arrays">
+        <item>1000 Hz </item>
+        <item>2000 Hz </item>
+        <item>3000 Hz</item>
+        <item>Sum All</item>
+    </string-array>
+</resources>
